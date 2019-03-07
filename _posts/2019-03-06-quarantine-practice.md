@@ -68,3 +68,17 @@ tags:
 
     主要用于进出境检疫，准备出镜的产地检疫，运输过程发现患病或可疑患病动物的运输检疫。
 
+![](https://i.loli.net/2019/03/07/5c80e63030f4a.jpg)
+
+![](https://i.loli.net/2019/03/07/5c80e68349177.jpg)
+
+![](https://i.loli.net/2019/03/07/5c80e6ae0f008.jpg)
+
+![](https://i.loli.net/2019/03/07/5c80e6cc5ddb1.jpg)
+
+![](https://i.loli.net/2019/03/07/5c80e6fa64b4e.jpg)
+
+![](https://i.loli.net/2019/03/07/5c80e71a81e8a.jpg)
+
+![](https://i.loli.net/2019/03/07/5c80e737dc927.jpg)
+
