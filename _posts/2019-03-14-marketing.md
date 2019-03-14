@@ -10,7 +10,7 @@ data:                    2019-03-14
 
 author:                SIR
 
-header-img:       img/post-shengdan.jpg
+header-img:       img/post-shengdan.png
 
 keywords_post: "Animal husbandry marketing,畜牧营销"
 
