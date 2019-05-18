@@ -55,7 +55,13 @@ grammar_xsjimg: false
 
 ## 示例一
 
-<iframe width="260" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red" frameborder=0 allowfullscreen></iframe>
+
+<video width="480" height="320" controls>
+<source src="http://m.ximalaya.com/sound/68379493">
+</video>
+<source src="movie
+
+</video>
 
 <video height="230" width="260" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red" frameborder=0 allowfullscreen></video>
 
