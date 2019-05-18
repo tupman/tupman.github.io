@@ -56,6 +56,7 @@ grammar_xsjimg: false
 ## 示例一
 
 ~[](https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red)
+~ [](https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red)
 
 ## 示例二
 
