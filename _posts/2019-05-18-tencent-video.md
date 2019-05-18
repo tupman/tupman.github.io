@@ -57,7 +57,7 @@ grammar_xsjimg: false
 
 <https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red>
 
-<iframe width="260" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red" frameborder=0 allowfullscreen></iframe>
+<iframe width="260" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red" frameborder=0></iframe>
 
 ## 示例二
 
