@@ -57,6 +57,8 @@ grammar_xsjimg: false
 
 <iframe width="260" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red" frameborder=0 allowfullscreen></iframe>
 
+<https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red>
+
 ## 示例二
 
 <iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=d0030hx92dp" allowFullScreen="true" width="300"></iframe>
