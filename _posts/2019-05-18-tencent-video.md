@@ -55,7 +55,7 @@ grammar_xsjimg: false
 
 ## 示例一
 
-<iframe height="230" width="260" src="https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red" frameborder=0 allowfullscreen></iframe>
+~[](https://www.ximalaya.com/thirdparty/player/sound/player.html?id=68379493&type=red)
 
 ## 示例二
 
