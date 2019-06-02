@@ -56,7 +56,7 @@ grammar_xsjimg: false
 
 ![](https://i.loli.net/2019/06/01/5cf29ff0e231267266.jpg)
 
-<iframe frameborder="0" width="350" src="https://v.qq.com/txp/iframe/player.html?vid=g0878g8887r" allowFullScreen="true"></iframe>
+<iframe frameborder="0"  src="https://v.qq.com/txp/iframe/player.html?vid=g0878g8887r" allowFullScreen="true"></iframe>
 
 温馨提示：结合本期精选视频，建议阅读文章后再来看哦
 
