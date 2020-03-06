@@ -9,7 +9,7 @@ author: SIR
 header-img: 
 keywords_post: "公众号,许阿T"
 cover:
-music-id: 2065772629
+music-id: 1407355706
 
 catalog: true
 grammar_toc: true
@@ -56,12 +56,6 @@ grammar_xsjimg: false
 
 [toc!?theme=colorful&depth=4]
 
-
-![](https://i.loli.net/2019/06/01/5cf29ff0e231267266.jpg)
-
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=g0878g8887r" allowFullScreen="true"></iframe>
-
-<center> 温馨提示：结合本期精选视频，建议阅读文章后再来看哦 </center>
 
 # 读书可以改变智商吗
 
