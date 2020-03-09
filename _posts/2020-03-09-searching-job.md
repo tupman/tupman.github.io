@@ -9,7 +9,7 @@ author: SIR
 header-img:
 keywords_post: "找工作 求职 面试"
 cover:
-music-id: 5189652
+music-id: 
 
 catalog: true
 grammar_toc: true
@@ -124,6 +124,7 @@ grammar_xsjimg: false
  1. 求职常规流程图
  
 ![求职流程图](https://wx2.sinaimg.cn/mw690/007lYuwtly1gcnn78sqy3j30mr07emxn.jpg)
+
 - [ ] 上机考试：
 一般只有较专业职位会有这一项，例如计算机相关
 - [ ] 集体面试：
